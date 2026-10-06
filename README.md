@@ -1,4 +1,4 @@
-# Genius Iqra Voice Recognition
+# Iqra Voice Learning
 
 A Unity learning game prototype that combines Iqra reading practice, microphone transcription, and game progression. Learners answer displayed prompts aloud; the application compares recognized text with configured answer variants and provides visual and audio feedback.
 
@@ -32,7 +32,7 @@ The enabled build scenes are **Home**, **Loading**, **Ingame**, and **Character*
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Azrinfreeman/GeniusIqraVoiceRecognition.git
+   git clone https://github.com/Azrinfreeman/Iqra-Voice-Learning.git
    ```
 
 2. Install Unity **2022.3.60f1** through Unity Hub and open the repository root. Package restoration needs network access, including the configured OpenUPM registry for RTLTMPro.

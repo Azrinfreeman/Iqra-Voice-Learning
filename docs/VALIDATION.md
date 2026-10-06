@@ -2,6 +2,8 @@
 
 Reviewed on **2026-10-06**, against source commit `f4d6d7440af301216f5e43b8689503cf77e38558`.
 
+The repository was renamed from `GeniusIqraVoiceRecognition` to `Iqra-Voice-Learning` with the owner's approval. The README title and clone URL reflect the new name. Unity product settings and application code are unchanged.
+
 ## Verified from the repository
 
 - Unity `2022.3.60f1`, embedded Whisper `1.3.2`, TextMeshPro `3.0.9`, and RTLTMPro `3.4.5` were checked against project/package metadata.
